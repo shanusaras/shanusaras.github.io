@@ -1,12 +1,15 @@
 # Data Scientist
 
-#### Technical Skills: 
-Python, SQL, Power BI, Tableau, Predictive Modeling, Feature Engineering, Computer Vision, NLP, Generative AI, AWS, KPI Analysis
+## Technical Skills: 
+**Python, SQL, Power BI, Tableau, Predictive Modeling, Feature Engineering, Computer Vision, NLP, Generative AI, AWS, KPI Analysis**
 
 ## Education
 - MA., Political Science | University of Madras at Chennai, India (_2022 - 2024_)
+  
 ---
+
 - B.E., Civil | Sri Sairam Institute of Technology (Affiliated to Anna University) at Chennai (_2014 - 2018)
+  
 ---
 
 ## Work Experience
