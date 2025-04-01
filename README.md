@@ -1,12 +1,13 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, Power BI, Tableau, Predictive Modeling, Feature Engineering, Computer Vision, NLP, Generative AI, AWS, KPI Analysis
+#### Technical Skills: 
+Python, SQL, Power BI, Tableau, Predictive Modeling, Feature Engineering, Computer Vision, NLP, Generative AI, AWS, KPI Analysis
 
 ## Education
-- MA., Political Science 
-University of Madras at Chennai, India (_2022- 2024_)
-- B.E., Civil
- Sri Sairam Institute of Technology (Affiliated to Anna University) at Chennai (_ 2014- 2018)	 	 
+- MA., Political Science | University of Madras at Chennai, India (_2022 - 2024_)
+---
+- B.E., Civil | Sri Sairam Institute of Technology (Affiliated to Anna University) at Chennai (_2014 - 2018)
+---
 
 ## Work Experience
 **Freelance Data Scientist (_Aug 2024 - Present_)**
@@ -40,10 +41,11 @@ University of Madras at Chennai, India (_2022- 2024_)
 - Improved data reporting efficiency by 20% through analyticsandvisualization using Python and Tableau.
 - Achieved 85% accuracy in bank loan predictions with engineeredmachine learning models, enhancing customer profiling.
 
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+## Projects
+### Hotel Revenue and Operational Efficiency Analysis
+[Project link](https://github.com/shanusaras/Hotel-Revenue-and-Operational-Efficiency-Dashboard.git)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Atliq Grands, a luxury hotel chain, faced declining revenue due to rising competition and poor management decisions. Using Power BI, Excel, and DAX, I analyzed 12 months of booking data, uncovering key revenue drivers and inefficiencies. The insights revealed that Elite customers and the RT2 room type contributed significantly to revenue, while high cancellation rates impacted occupancy. My dashboard provided actionable strategies, including personalized marketing, optimized pricing, and stronger platform partnerships. These recommendations aimed to boost revenue, enhance customer retention, and improve operational efficiency.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
