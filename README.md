@@ -64,7 +64,7 @@ The Loan Risk Analysis and Performance Insights project examines 10,000+ loan re
 
 
 <p align="center">
-  <img src="/assets/images/bank_loan_risk_analysis.png" alt="Hotel Revenue Analysis" width="300">
+  <img src="/assets/images/bank_loan_risk_analysis.png" alt="loan_risk_analysis" width="300">
 </p>
 
 
@@ -76,7 +76,7 @@ The Mobile Price Range Prediction project leverages machine learning and data an
 
 
 <p align="center">
-  <img src="/assets/images/hotel_revenue_analysis.png" alt="Hotel Revenue Analysis" width="300">
+  <img src="/assets/images/mobile_price_range_prediction.png" alt="Mobile price range prediction" width="300">
 </p>
 
 
