@@ -56,6 +56,7 @@ Atliq Grands, a luxury hotel chain, faced declining revenue due to rising compet
 </p>
 
 
+
 ### Loan risk Analytics and Performance Insights
 [Project link](https://github.com/shanusaras/Loan-Risk-Analytics-and-Performance-Insights.git)
 
@@ -67,6 +68,7 @@ The Loan Risk Analysis and Performance Insights project examines 10,000+ loan re
 </p>
 
 
+
 ### Mobile price range prediction and Business Insights for Competitive Strategy
 [Project link](https://github.com/shanusaras/Mobile-Price-Range-Prediction.git)
 
@@ -76,6 +78,7 @@ The Mobile Price Range Prediction project leverages machine learning and data an
 <p align="center">
   <img src="/assets/images/hotel_revenue_analysis.png" alt="Hotel Revenue Analysis" width="300">
 </p>
+
 
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
