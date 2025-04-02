@@ -77,7 +77,7 @@ The Mobile Price Range Prediction project leverages machine learning and data an
 
 
 <p align="center">
-  <img src="/assets/images/mobile_price_range_prediction.png" alt="Mobile_price_range_prediction" width="300">
+  <img src="/assets/images/mobile_price_range_prediction.jpg" alt="Mobile_price_range_prediction" width="300">
 </p>
 
 
