@@ -52,8 +52,9 @@ Atliq Grands, a luxury hotel chain, faced declining revenue due to rising compet
 
 
 <p align="center">
-  <img src="https://shanusaras.github.io/saraswathi.github.io/assets/img/hotel_revenue_analysis.png" alt="Hotel Revenue Analysis" width="300">
+  <img src="/assets/images/hotel_revenue_analysis.png" alt="Hotel Revenue Analysis" width="300">
 </p>
+
 
 
 
