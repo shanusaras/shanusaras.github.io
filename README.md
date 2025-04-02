@@ -5,11 +5,9 @@
 
 ## Education
 - MA., Political Science | University of Madras at Chennai, India (_2022 - 2024_)
-  
 ---
 
-- B.E., Civil | Sri Sairam Institute of Technology (Affiliated to Anna University) at Chennai (_2014 - 2018)
-  
+- B.E., Civil | Sri Sairam Institute of Technology (Affiliated to Anna University) at Chennai (_2014 - 2018_)
 ---
 
 ## Work Experience
@@ -41,8 +39,8 @@
 - Developed ML model for house pricing, reducing error rates by 25%and improving accuracy by 18%.
 
 **Data Science Intern @  Prodigy Infotech (_Dec 2023 - Jan 2024)**
-- Improved data reporting efficiency by 20% through analyticsandvisualization using Python and Tableau.
-- Achieved 85% accuracy in bank loan predictions with engineeredmachine learning models, enhancing customer profiling.
+- Improved data reporting efficiency by 20% through analytics and visualization using Python and Tableau.
+- Achieved 85% accuracy in bank loan predictions with engineered machine learning models, enhancing customer profiling.
 
 ## Projects
 ### Hotel Revenue and Operational Efficiency Analysis
