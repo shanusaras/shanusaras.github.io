@@ -82,6 +82,18 @@ The Mobile Price Range Prediction project leverages machine learning and data an
 
 
 
+### Employee Performance Analysis and Predictive Modeling for Workforce Optimization
+[Project link](https://github.com/shanusaras/Employees_performance_analysis.git)
+
+The **Employee Performance Analysis and Workforce Optimization** project aimed to enhance workforce productivity and hiring efficiency at a prestigious company by leveraging advanced **machine learning** and **data analytics**. Using **Python, SQL, and Power BI**, I conducted extensive **Exploratory Data Analysis (EDA)** and feature engineering to identify key performance drivers. Predictive models, including **Random Forest, XGBoost, and SVM**, were optimized to achieve a **93% accuracy rate**, enabling precise employee performance forecasting. Insights from the analysis helped **improve hiring efficiency by 26%** and **increase client satisfaction by mitigating performance-related escalations**. Additionally, actionable recommendations, such as incentive programs and skill development initiatives, were proposed to optimize employee retention and overall workforce efficiency.
+
+
+<p align="center">
+  <img src="/assets/images/bank_loan_risk_analysis.png" alt="loan_risk_analysis" width="300">
+</p>
+
+
+
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
