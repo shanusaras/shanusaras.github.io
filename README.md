@@ -65,6 +65,19 @@ The Loan Risk Analysis and Performance Insights project examines 10,000+ loan re
 <p align="center">
   <img src="/assets/images/bank_loan_risk_analysis.png" alt="Hotel Revenue Analysis" width="300">
 </p>
+
+
+### Mobile price range prediction and Business Insights for Competitive Strategy
+[Project link](https://github.com/shanusaras/Mobile-Price-Range-Prediction.git)
+
+The Mobile Price Range Prediction project leverages machine learning and data analysis to classify mobile phones into price ranges based on specifications like RAM, battery power, and internal memory. Using Python and libraries like Scikit-learn and XGBoost, the project involved data cleaning, feature engineering, and predictive modeling to ensure accuracy. After testing multiple models, a fine-tuned Support Vector Machine (SVM) achieved 95% accuracy, significantly improving price classification reliability. The analysis provided actionable business insights, helping a budding company optimize pricing strategies to compete with market leaders like Apple and Samsung. By identifying key pricing factors and consumer preferences, the project offers data-driven recommendations to maximize market penetration and profitability.
+
+
+<p align="center">
+  <img src="/assets/images/hotel_revenue_analysis.png" alt="Hotel Revenue Analysis" width="300">
+</p>
+
+
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
