@@ -5,9 +5,11 @@
 
 ## Education
 - MA., Political Science | University of Madras at Chennai, India (_2022 - 2024_)
+  
 ---
 
 - B.E., Civil | Sri Sairam Institute of Technology (Affiliated to Anna University) at Chennai (_2014 - 2018_)
+  
 ---
 
 ## Work Experience
