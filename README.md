@@ -7,11 +7,12 @@ Hey there! I’m **Saraswathi**, a data scientist who loves turning messy data i
 I don’t just build models—I **solve real problems**. Whether it’s predicting trends, optimizing workflows, or uncovering what really drives business success, I make data work **for people, not just spreadsheets**.  
 
 **What I bring to the table:**  
-- Sharp analytical skills, backed by Python, SQL, and all things machine learning.  
-- A knack for storytelling—because numbers mean nothing if they don’t drive action.  
-- A mix of curiosity and creativity that helps me find insights others might miss.  
+- Sharp analytical skills, powered by Python, SQL, and everything machine learning.  
+- A knack for storytelling—because 👉 numbers mean nothing if they don’t drive action.  
+- A mix of curiosity and creativity that helps me spot insights others might miss.  
 
-Let’s connect, collaborate, and create something awesome!   
+Let’s connect, collaborate, and create something awesome!  
+  
 
 
 ## Technical Skills: 
