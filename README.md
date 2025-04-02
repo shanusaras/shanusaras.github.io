@@ -64,7 +64,7 @@ The Loan Risk Analysis and Performance Insights project examines 10,000+ loan re
 
 
 <p align="center">
-  <img src="/assets/images/bank_loan_risk_analysis.png" alt="loan_risk_analysis" width="300">
+  <img src="https://shanusaras.github.io/saraswathi.github.io/assets/images/bank_loan_risk_analysis.png" alt="loan_risk_analysis" width="300">
 </p>
 
 
@@ -77,7 +77,7 @@ The Mobile Price Range Prediction project leverages machine learning and data an
 
 
 <p align="center">
-  <img src="/assets/images/mobile_price_range_prediction.jpg" alt="Mobile_price_range_prediction" width="300">
+  <img src="https://shanusaras.github.io/saraswathi.github.io/assets/images/mobile_price_range_prediction.jpg" alt="Mobile_price_range_prediction" width="300">
 </p>
 
 
@@ -89,7 +89,7 @@ The Employee Performance Analysis and Workforce Optimization project aimed to en
 
 
 <p align="center">
-  <img src="/assets/images/employee_performance_analysis.jpg" alt="employee_performance_analysis" width="300">
+  <img src="https://shanusaras.github.io/saraswathi.github.io/assets/images/employee_performance_analysis.jpg" alt="employee_performance_analysis" width="300">
 </p>
 
 
