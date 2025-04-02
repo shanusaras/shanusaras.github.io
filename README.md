@@ -69,6 +69,7 @@ The Loan Risk Analysis and Performance Insights project examines 10,000+ loan re
 
 
 
+
 ### Mobile price range prediction and Business Insights for Competitive Strategy
 [Project link](https://github.com/shanusaras/Mobile-Price-Range-Prediction.git)
 
@@ -76,7 +77,7 @@ The Mobile Price Range Prediction project leverages machine learning and data an
 
 
 <p align="center">
-  <img src="/assets/images/mobile_price_range_prediction.png" alt="Mobile price range prediction" width="300">
+  <img src="/assets/images/mobile_price_range_prediction.png" alt="Mobile_price_range_prediction" width="300">
 </p>
 
 
