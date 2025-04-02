@@ -51,9 +51,7 @@
 Atliq Grands, a luxury hotel chain, faced declining revenue due to rising competition and poor management decisions. Using Power BI, Excel, and DAX, I analyzed 12 months of booking data, uncovering key revenue drivers and inefficiencies. The insights revealed that Elite customers and the RT2 room type contributed significantly to revenue, while high cancellation rates impacted occupancy. My dashboard provided actionable strategies, including personalized marketing, optimized pricing, and stronger platform partnerships. These recommendations aimed to boost revenue, enhance customer retention, and improve operational efficiency.
 
 
-<p align="center">
-  <img src="/assets/img/hotel_revenue_analysis.png" alt="Hotel Revenue Analysis" width="200">
-</p>
+![Hotel Revenue Analysis](/assets/img/hotel_revenue_analysis.png)
 
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
