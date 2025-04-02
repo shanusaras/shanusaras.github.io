@@ -89,17 +89,11 @@ The **Employee Performance Analysis and Workforce Optimization** project aimed t
 
 
 <p align="center">
-  <img src="/assets/images/bank_loan_risk_analysis.png" alt="loan_risk_analysis" width="300">
+  <img src="/assets/images/employee_performance_analysis.jpg" alt="employee_performance_analysis" width="300">
 </p>
 
 
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
