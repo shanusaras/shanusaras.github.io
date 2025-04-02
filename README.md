@@ -94,25 +94,42 @@ The Employee Performance Analysis and Workforce Optimization project aimed to en
 
 
 
+## Certifications
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+- [**Certified Data Scientist**](https://drive.google.com/file/d/1OztLucVaX6kHZFq8pR4klXwsSlwVIgVc/view?usp=sharing)
+  *Issued by IABAC, 2024*
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+- [**Data Science Foundation**](https://drive.google.com/file/d/17hVc6UuejafxH1EGn1nj095sqmG2OaqR/view?usp=sharing)  
+  *Issued by IABAC, 2023*
 
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
+- [**Certified Data Scientist**](https://drive.google.com/file/d/1FHOk58nOBySC8OA1g4SrRDQkMbkddOXW/view?usp=sharing)  
+  *Issued by NASSCOM, 2022*
+
+- [**Certified Data Scientist Certification Training**](https://drive.google.com/file/d/1Ts78V4g3IdoaDM5rs7lJfEAC04GtkOe0/view?usp=sharing)
+  *Issued by Datamites, 2024*
+
+## About
+
+I am a data science enthusiast passionate about leveraging machine learning and analytics to solve real-world business challenges. My expertise spans predictive modeling, data visualization, and decision-making optimization, helping organizations transform raw data into meaningful insights.
+
+**Contact Information:**
+
+- **Email:** [saraswathi.rajendran@example.com](mailto:saraswathi.rajendran@example.com)
+- **LinkedIn:** [linkedin.com/in/saraswathi-rajendran](https://www.linkedin.com/in/saraswathi-rajendran)
+- **GitHub:** [github.com/shanusaras](https://github.com/shanusaras)
+
+## Hobbies & Interests  
+
+Beyond data science, I enjoy exploring creative and analytical pursuits that enhance both my personal and professional growth:  
+
+🎬 **Movies & Storytelling** – I have a deep appreciation for thought-provoking movies, especially **sci-fi, psychological thrillers, and investigative dramas**. They fuel my curiosity for problem-solving and strategic thinking.  
+
+🎙️ **Podcasts & Knowledge Sharing** – I regularly tune into **tech, AI, and productivity-focused podcasts**, staying updated on industry trends and innovative breakthroughs in machine learning and data science.  
+
+✏️ **Pencil Sketching & Digital Art** – I enjoy capturing intricate details through pencil sketching, a skill that sharpens my observation, patience, and creativity—traits essential for data analysis and visualization.  
+
+📖 **Continuous Learning** – Whether it’s mastering a new programming framework or exploring business case studies, I thrive on learning new concepts and applying them to real-world problems.  
+
 8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
 9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
 
