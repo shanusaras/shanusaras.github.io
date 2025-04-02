@@ -14,9 +14,16 @@ I don’t just build models—I **solve real problems**. Whether it’s predicti
 Let’s connect, collaborate, and create something awesome!  
   
 
+## Technical Skills
 
-## Technical Skills: 
-**Python, SQL, Power BI, Tableau, Predictive Modeling, Feature Engineering, Computer Vision, NLP, Generative AI, AWS, KPI Analysis**
+- **Programming & Querying:** Python, SQL  
+- **Machine Learning & AI:** Predictive Modeling, Feature Engineering, NLP, Computer Vision, Generative AI  
+- **Data Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
+- **Big Data & Cloud:** Databricks, Google BigQuery, AWS (S3, Lambda, EC2)  
+- **MLOps & Deployment:** Flask, FastAPI, Streamlit, Docker, Git  
+- **AI/ML Frameworks:** TensorFlow, PyTorch, Scikit-learn, Hugging Face Transformers  
+- **Actively Learning:** LangChain, OpenAI API, MLflow, GCP AI services  
+
 
 ## Education
 - MA., Political Science | University of Madras at Chennai, India (_2022 - 2024_)
