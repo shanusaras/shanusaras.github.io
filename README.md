@@ -56,8 +56,15 @@ Atliq Grands, a luxury hotel chain, faced declining revenue due to rising compet
 </p>
 
 
+### Loan risk Analytics and Performance Insights
+[Project link](https://github.com/shanusaras/Loan-Risk-Analytics-and-Performance-Insights.git)
+
+The Loan Risk Analysis and Performance Insights project examines 10,000+ loan records using MySQL to identify key risk factors, revealing that 13.8% of loans are high-risk due to factors like Debt-to-Income (DTI) ratio and loan terms. The data was cleaned and transformed in Excel, uncovering trends through pivot tables and metrics. To enhance risk assessment, interactive Power BI and Tableau dashboards were developed, visualizing borrower behavior, loan performance, and regional trends. The findings provide actionable insights for financial institutions to reduce loan defaults, improve risk assessment, and offer better-targeted loan products. Future improvements include predictive modeling and real-time dashboard updates for enhanced decision-making.
 
 
+<p align="center">
+  <img src="/assets/images/bank_loan_risk_analysis.png" alt="Hotel Revenue Analysis" width="300">
+</p>
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
