@@ -1,5 +1,19 @@
 # Data Scientist
 
+## 🙋‍♀️About Me  
+
+Hey there! I’m **Saraswathi**, a data scientist who loves turning messy data into crystal-clear insights. If there’s a pattern hiding in the noise, you bet I’ll find it. 📊✨  
+
+I don’t just build models—I **solve real problems**. Whether it’s predicting trends, optimizing workflows, or uncovering what really drives business success, I make data work **for people, not just spreadsheets**.  
+
+**What I bring to the table:**  
+- Sharp analytical skills, backed by Python, SQL, and all things machine learning.  
+- A knack for storytelling—because numbers mean nothing if they don’t drive action.  
+- A mix of curiosity and creativity that helps me find insights others might miss.  
+
+Let’s connect, collaborate, and create something awesome!   
+
+
 ## Technical Skills: 
 **Python, SQL, Power BI, Tableau, Predictive Modeling, Feature Engineering, Computer Vision, NLP, Generative AI, AWS, KPI Analysis**
 
