@@ -96,17 +96,18 @@ The Employee Performance Analysis and Workforce Optimization project aimed to en
 
 ## Certifications
 
-- [**Certified Data Scientist**](https://drive.google.com/file/d/1OztLucVaX6kHZFq8pR4klXwsSlwVIgVc/view?usp=sharing)
-  *Issued by IABAC, 2024*
+- [**Certified Data Scientist**](https://drive.google.com/file/d/1OztLucVaX6kHZFq8pR4klXwsSlwVIgVc/view?usp=sharing)  
+  *Issued by IABAC, 2024*  
 
 - [**Data Science Foundation**](https://drive.google.com/file/d/17hVc6UuejafxH1EGn1nj095sqmG2OaqR/view?usp=sharing)  
-  *Issued by IABAC, 2024*
+  *Issued by IABAC, 2024*  
 
 - [**Certified Data Scientist**](https://drive.google.com/file/d/1FHOk58nOBySC8OA1g4SrRDQkMbkddOXW/view?usp=sharing)  
-  *Issued by NASSCOM, 2024*
+  *Issued by NASSCOM, 2024*  
 
-- [**Certified Data Scientist Certification Training**](https://drive.google.com/file/d/1Ts78V4g3IdoaDM5rs7lJfEAC04GtkOe0/view?usp=sharing)
-  *Issued by Datamites, 2024*
+- [**Certified Data Scientist Certification Training**](https://drive.google.com/file/d/1Ts78V4g3IdoaDM5rs7lJfEAC04GtkOe0/view?usp=sharing)  
+  *Issued by Datamites, 2024*  
+
 
 ## About
 
