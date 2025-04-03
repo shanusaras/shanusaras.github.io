@@ -118,11 +118,9 @@ Let’s connect, collaborate, and create something awesome!
 
 ## 💻 Projects  
 
-## 💻 Projects  
-
 ### Hotel Revenue and Operational Efficiency Analysis  
 **Domain:** Hospitality & Travel | **Tech Stack:** Power BI, Excel, DAX  
-[🔗 Project link](https://github.com/shanusaras/Hotel-Revenue-and-Operational-Efficiency-Dashboard.git)  
+[🔗 **Project link**](https://github.com/shanusaras/Hotel-Revenue-and-Operational-Efficiency-Dashboard.git)  
 
 **Problem**  
 Atliq Grands, a luxury hotel chain, faced declining revenue due to rising competition and poor management decisions.  
