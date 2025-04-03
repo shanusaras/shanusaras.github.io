@@ -62,7 +62,7 @@ LangChain (LLM Applications), OpenAI API, AutoML, Edge AI, GCP AI Services
 - Conducted **hands-on training for 100+ learners**, breaking down complex SQL queries, Power BI dashboards, and deep learning models for real-world applications.  
 - Built **NLP-driven text analytics** and **AI-powered recommendation systems**, helping businesses automate insights and personalize customer experiences.  
 
-### Analyst @ I-PAC** (_Nov 2020 - Feb 2021_)  
+### **Analyst @ I-PAC** (_Nov 2020 - Feb 2021_)  
 - Led **data-driven electoral strategy**, analyzing voter behavior across **50+ constituencies** to influence key campaign decisions.  
 - Conducted sentiment analysis on public opinion data, driving targeted outreach efforts and boosting voter engagement by **20%**.  
 - Developed data-backed reports that **optimized decision-making**, enhancing communication strategies and driving a **25% increase in public participation**.
@@ -181,8 +181,9 @@ I don’t just analyze data—I overanalyze **movie plots, podcast theories, and
 
 ---
 
-**🔵 Bachelor of Engineering (B.E.) in Civil Engineering**  
-📍 Sri Sairam Institute of Technology (Affiliated to Anna University), Chennai _(2014 – 2018)_  
+**🔵 Bachelor of Engineering (B.E.) in Civil Engineering** 
+📍 Sri Sairam Institute of Technology (Affiliated to Anna University), Chennai, India _(2014 – 2018)_ 
+
 ---
 
 ## 📞 Get in Touch
