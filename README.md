@@ -161,7 +161,7 @@ Analyzed **10,000+ loan records** using MySQL & Excel, identifying risk patterns
 ---
 
 ### Mobile Price Range Prediction & Business Insights  
-**Domain:** E-commerce | **Tech Stack:** Python, Scikit-Learn, XGBoost  
+**Domain:** E-commerce | **Tech Stack:** Python, Scikit-Learn, ML  
 [🔗 Project link](https://github.com/shanusaras/Mobile-Price-Range-Prediction.git)  
 
 **Problem**  
@@ -182,7 +182,7 @@ Developed an ML model to classify mobile prices based on **RAM, battery power, &
 ---
 
 ### Employee Performance Analysis & Predictive Modeling  
-**Domain:** HR & Workforce Analytics | **Tech Stack:** Python, SQL, Power BI, XGBoost  
+**Domain:** HR & Workforce Analytics | **Tech Stack:** Python, ML   
 [🔗 Project link](https://github.com/shanusaras/Employees_performance_analysis.git)  
 
 **Problem**  
