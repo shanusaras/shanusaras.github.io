@@ -25,6 +25,26 @@ Let’s connect, collaborate, and create something awesome!
 - **Actively Learning:** LangChain, OpenAI API, MLflow, GCP AI services  
 
 
+## Work Experience  
+
+### **Freelance Data Scientist** (_Aug 2024 - Present_)  
+- Designed **end-to-end ML pipelines**, increasing predictive accuracy by **30%**, leading to improved business forecasting.  
+- Conducted **hands-on training for 100+ learners**, breaking down complex SQL queries, Power BI dashboards, and deep learning models for real-world applications.  
+- Built **NLP-driven text analytics** and **AI-powered recommendation systems**, helping businesses automate insights and personalize customer experiences.  
+
+### **Data Analyst @ I-PAC** (_Nov 2020 - Feb 2021_)  
+- Led **data-driven electoral strategy** by analyzing voter behavior across **50+ constituencies**, influencing key campaign decisions.  
+- Developed **predictive models** to forecast public sentiment, resulting in a **20% increase in engagement**.  
+- Optimized outreach strategies using **trend analysis & geospatial data**, driving a **25% boost in public participation**.  
+
+### **Freelance Content Developer @ Yaclass** (_Jun 2019 - Oct 2019_)  
+- Analyzed **large-scale student performance datasets** to uncover key learning gaps, driving:  
+  - **30% higher engagement** through interactive content.  
+  - **40% improvement in remote learning efficiency** by optimizing digital lessons.  
+  - **25% increase in student test scores** using **personalized assessment models**.  
+  - **15% boost in satisfaction** through adaptive learning strategies.  
+
+
 ## Education
 - MA., Political Science | University of Madras at Chennai, India (_2022 - 2024_)
   
