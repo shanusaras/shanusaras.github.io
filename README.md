@@ -4,7 +4,7 @@
 ## 👋 About Me  
 **Data science + storytelling + problem-solving.** That’s my formula.  
 
-I turn **raw data into gold**, uncovering insights that **drive real impact**.  
+I turn raw data into gold, uncovering insights that drive real impact.  
 
 ### What I bring to the table:  
 - Sharp analytical skills backed by Python, SQL, and all things machine learning.  
@@ -47,6 +47,36 @@ Let’s connect, collaborate, and create something awesome!
 - Applied **SQL & statistical analysis** to personalize digital education content, improving retention and learning outcomes.  
 
 ---
+
+## 💼 Work Experience  
+
+### **Freelance Data Scientist**  
+📍 Remote | *Aug 2024 – Present*  
+
+- Designed **end-to-end ML pipelines**, boosting predictive accuracy by *30%* for better business forecasting.  
+- Conducted *hands-on training for 100+ learners*, simplifying **SQL, Power BI, and Deep Learning** for real-world applications.  
+- Built **NLP-driven text analytics** and **AI-powered recommendation systems**, enabling businesses to automate insights and personalize customer experiences.  
+
+---
+
+### **Analyst | Indian Political Action Committee (I-PAC)**  
+📍 India | *Nov 2020 – Feb 2021*  
+
+- Led **data-driven electoral strategy**, analyzing *voter behavior across 50+ constituencies* to influence key campaign decisions.  
+- Conducted **sentiment analysis on public opinion data**, driving targeted outreach and increasing *voter engagement by 20%*.  
+- Developed **data-backed reports**, optimizing decision-making and driving a *25% increase in public participation*.  
+- Collaborated with cross-functional teams to translate **complex data insights into actionable strategies**, improving overall campaign effectiveness.  
+
+---
+
+### **Learning Analytics Consultant | YaClass (EdTech)**  
+📍 Remote | *Jun 2019 – Oct 2019*  
+
+- Analyzed **large-scale student performance datasets**, identifying key learning gaps and improving *engagement by 30%*.  
+- Designed **adaptive assessment models**, leading to a *25% improvement in test scores* and a *15% increase in student satisfaction*.  
+- Optimized **remote learning content**, improving efficiency by *40%* through structured, data-driven lesson planning.  
+- Applied **SQL & statistical analysis** to personalize digital education content, enhancing retention and learning outcomes.  
+
 
 ## 🎓 Internships & Trainings  
 
