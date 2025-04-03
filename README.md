@@ -1,7 +1,7 @@
 # Data Scientist
 
 
-## 🙋‍♀️ About Me  
+## 👋 About Me  
 **Data science + storytelling + problem-solving.** That’s my formula.  
 I turn **raw data into gold**, uncovering insights that **drive real impact**.  
 
@@ -47,7 +47,7 @@ Let’s connect, collaborate, and create something awesome!
 
 ---
 
-## 🏆 Internships & Trainings  
+## 🎓 Internships & Trainings  
 
 ### **Data Science Consultant @ Rubixe - AI Solutions Company** (_Aug 2023 - Aug 2024_)  
 - Transformed raw business data into **actionable AI-driven insights**, optimizing decision-making processes.  
@@ -73,7 +73,7 @@ Let’s connect, collaborate, and create something awesome!
 - Designed **predictive models** that achieved **85% accuracy** in **bank loan risk assessments**, optimizing customer profiling.  
 
 
-## Projects
+## 💻Projects
 ### Hotel Revenue and Operational Efficiency Analysis
 [Project link](https://github.com/shanusaras/Hotel-Revenue-and-Operational-Efficiency-Dashboard.git)
 
@@ -121,78 +121,9 @@ The Employee Performance Analysis and Workforce Optimization project aimed to en
   <img src="https://shanusaras.github.io/saraswathi.github.io/assets/images/employee_performance_analysis.jpg" alt="employee_performance_analysis" width="300">
 </p>
 
-
-
-## Certifications
-
-- [**Certified Data Scientist**](https://drive.google.com/file/d/1OztLucVaX6kHZFq8pR4klXwsSlwVIgVc/view?usp=sharing)  
-  *Issued by IABAC, 2024*  
-
-- [**Data Science Foundation**](https://drive.google.com/file/d/17hVc6UuejafxH1EGn1nj095sqmG2OaqR/view?usp=sharing)  
-  *Issued by IABAC, 2024*  
-
-- [**Certified Data Scientist**](https://drive.google.com/file/d/1FHOk58nOBySC8OA1g4SrRDQkMbkddOXW/view?usp=sharing)  
-  *Issued by NASSCOM, 2024*  
-
-- [**Certified Data Scientist Certification Training**](https://drive.google.com/file/d/1Ts78V4g3IdoaDM5rs7lJfEAC04GtkOe0/view?usp=sharing)  
-  *Issued by Datamites, 2024*  
-
-## Education
-- MA., Political Science | University of Madras at Chennai, India (_2022 - 2024_)
-  
 ---
 
-- B.E., Civil | Sri Sairam Institute of Technology (Affiliated to Anna University) at Chennai (_2014 - 2018_)
-  
----
-
-## About
-
-I am a data science enthusiast passionate about leveraging machine learning and analytics to solve real-world business challenges. My expertise spans predictive modeling, data visualization, and decision-making optimization, helping organizations transform raw data into meaningful insights.
-
-**Contact Information:**
-
-- **Email:** [saraswathi.rajendran@example.com](mailto:saraswathi.rajendran@example.com)
-- **LinkedIn:** [linkedin.com/in/saraswathi-rajendran](https://www.linkedin.com/in/saraswathi-rajendran)
-- **GitHub:** [github.com/shanusaras](https://github.com/shanusaras)
-
-## Hobbies & Interests  
-
-Beyond data science, I enjoy exploring creative and analytical pursuits that enhance both my personal and professional growth:  
-
-🎬 **Movies & Storytelling** – I have a deep appreciation for thought-provoking movies, especially **sci-fi, psychological thrillers, and investigative dramas**. They fuel my curiosity for problem-solving and strategic thinking.  
-
-🎙️ **Podcasts & Knowledge Sharing** – I regularly tune into **tech, AI, and productivity-focused podcasts**, staying updated on industry trends and innovative breakthroughs in machine learning and data science.  
-
-✏️ **Pencil Sketching & Digital Art** – I enjoy capturing intricate details through pencil sketching, a skill that sharpens my observation, patience, and creativity—traits essential for data analysis and visualization.  
-
-📖 **Continuous Learning** – Whether it’s mastering a new programming framework or exploring business case studies, I thrive on learning new concepts and applying them to real-world problems.  
-
-----------------------
-
-
-
----
-
-
-
----
-
-## 🎯 Projects  
-
-### 💡 Hotel Revenue Analysis _(Power BI, SQL, Excel)_  
-- Analyzed **12 months of booking data**, uncovering revenue inefficiencies.  
-- Identified high-value customers and reduced **cancellation impact**.  
-
-### 💡 Movie Recommendation System _(Python, NLP, Machine Learning)_  
-- Engineered **collaborative filtering**, boosting recommendation accuracy by **15%**.  
-
-### 💡 Loan Default Prediction _(Machine Learning, Tableau)_  
-- Achieved **85% accuracy** in bank loan default prediction.  
-
----
-
-## 🎓 Certifications  
+## 🏆 Certifications & Achievements
 ✅ **[Certified Data Scientist](https://drive.google.com/file/d/1OztLucVaX6kHZFq8pR4klXwsSlwVIgVc/view?usp=sharing)** – _Issued by IABAC, 2024_  
 ✅ **[Data Science Foundation](https://drive.google.com/file/d/17hVc6UuejafxH1EGn1nj095sqmG2OaqR/view?usp=sharing)** – _Issued by IABAC, 2024_  
 ✅ **[Certified Data Scientist](https://drive.google.com/file/d/1FHOk58nOBySC8OA1g4SrRDQkMbkddOXW/view?usp=sharing)** – _Issued by NASSCOM, 2024_  
@@ -200,22 +131,36 @@ Beyond data science, I enjoy exploring creative and analytical pursuits that enh
 
 ---
 
-## 📞 Contact Me  
-📧 **Email:** [your-email@example.com](mailto:your-email@example.com)  
-🔗 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)  
-🐙 **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
+## 🎭 Beyond the Data: Hobbies & Interests  
+
+I don’t just analyze data—I overanalyze **movie plots, podcast theories, and the mysteries of the universe** too.  
+
+🎬 **Movie Buff:** Sci-Fi, Psychological Thrillers, and anything with a plot twist that makes me pause and rethink my life choices.  
+
+🎙️ **Podcast Addict:** Mental health, self-improvement, and tech deep dives...Anything that makes me feel smarter while I sip my coffee.
+
+✏️ **Sketching (Mostly in Black & White):** Not everything needs color to tell a story. Turns out, patience and attention to detail work for both art and data👀  
+
+🌌 **Star Gazing & Wondering About Life:** Because sometimes, the best insights come when you’re staring at the sky, not a screen.  (ofcourse juz kiddin'...screens are important😂)
 
 ---
 
-## 🎬 Hobbies & Interests  
-I don’t just analyze data—I analyze **cinematic universes**, **podcast theories**, and **artistic sketches** too.  
+## 🎓 Education  
 
-🎥 **Movie Buff Mode:** Sci-Fi, Psychological Thrillers, and the occasional Rom-Com when no one's watching.  
-🎙️ **Podcast Junkie:** Anything that makes me feel smarter while I sip my coffee.  
-✏️ **Pencil Sketching:** Because neural networks aren’t the only things I like to train.  
-🕹️ **Gaming & Strategy:** If I can optimize a dataset, you bet I can optimize my in-game economy.  
+**🟢 Master of Arts (M.A.) in Political Science**  
+📍 University of Madras, Chennai, India _(2022 – 2024)_  
 
 ---
+
+**🔵 Bachelor of Engineering (B.E.) in Civil Engineering**  
+📍 Sri Sairam Institute of Technology (Affiliated to Anna University), Chennai _(2014 – 2018)_  
+---
+
+## 📞 Get in Touch
+
+📧 **Email:** [shanusaras123@gmail.com](mailto:shanusaras123@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/saraswathi-rajendran](https://www.linkedin.com/in/saraswathi-rajendran-29b962205/) 
+🐙 **GitHub:** [github.com/shanusaras](https://github.com/shanusaras)  
 
 
 
