@@ -3,11 +3,12 @@
 
 ## 👋 About Me  
 **Data science + storytelling + problem-solving.** That’s my formula.  
+
 I turn **raw data into gold**, uncovering insights that **drive real impact**.  
 
 ### What I bring to the table:  
-- **Sharp analytical skills** backed by Python, SQL, and all things machine learning.  
-- A knack for **storytelling through data**—because 👉 numbers mean nothing if they don’t drive action.  
+- Sharp analytical skills backed by Python, SQL, and all things machine learning.  
+- A knack for storytelling through data—because 👉 numbers mean nothing if they don’t drive action.  
 - A mix of curiosity and creativity that helps me spot insights others might miss. 
 
 Let’s connect, collaborate, and create something awesome!  
@@ -25,35 +26,6 @@ Let’s connect, collaborate, and create something awesome!
 - **Actively Learning:** LangChain, OpenAI API, MLflow, GCP AI services  
 
 ---
-
-## Technical Skills  
-
-### Programming & Querying  
-Python, SQL (PostgreSQL, MySQL, BigQuery), Bash  
-
-### Machine Learning & AI  
-- Predictive Modeling, Feature Engineering, Statistical Analysis  
-- Natural Language Processing (NLP), Computer Vision (CV)  
-- Generative AI (LLMs, Text-to-Image Models, Chatbots)  
-
-### Data Analytics & Visualization  
-Power BI, Tableau, Matplotlib, Seaborn, Plotly, Excel (Advanced)  
-
-### Big Data & Cloud Technologies  
-Databricks, Google BigQuery, Snowflake, AWS (S3, Lambda, EC2, SageMaker)  
-
-### MLOps & Model Deployment  
-- End-to-End ML Pipeline Automation  
-- FastAPI, Flask, Streamlit (Interactive AI Apps)  
-- Docker, Git, MLflow (Model Tracking & Deployment)  
-
-### AI/ML Frameworks & Libraries  
-TensorFlow, PyTorch, Scikit-learn, XGBoost, Hugging Face Transformers  
-
-### Actively Exploring & Mastering  
-LangChain (LLM Applications), OpenAI API, AutoML, Edge AI, GCP AI Services  
-
-----
 
 ## 💼 Work Experience  
 
