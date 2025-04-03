@@ -29,27 +29,6 @@ Let’s connect, collaborate, and create something awesome!
 
 ## 💼 Work Experience  
 
-### **Freelance Data Scientist** (_Aug 2024 - Present_)  
-- Designed **end-to-end ML pipelines**, increasing predictive accuracy by **30%**, leading to improved business forecasting.  
-- Conducted **hands-on training for 100+ learners**, breaking down complex SQL queries, Power BI dashboards, and deep learning models for real-world applications.  
-- Built **NLP-driven text analytics** and **AI-powered recommendation systems**, helping businesses automate insights and personalize customer experiences.  
-
-### **Analyst @ I-PAC** (_Nov 2020 - Feb 2021_)  
-- Led **data-driven electoral strategy**, analyzing voter behavior across **50+ constituencies** to influence key campaign decisions.  
-- Conducted sentiment analysis on public opinion data, driving targeted outreach efforts and boosting voter engagement by **20%**.  
-- Developed data-backed reports that **optimized decision-making**, enhancing communication strategies and driving a **25% increase in public participation**.
-- Collaborated with cross-functional teams to translate complex data insights into actionable recommendations for leadership, improving overall campaign effectiveness.  
-
-### **Learning Analytics Consultant @ Yaclass** (_Jun 2019 - Oct 2019_)  
-- Analyzed **large-scale student performance datasets**, identifying gaps and **enhancing engagement by 30%**.  
-- Designed **adaptive assessment models**, improving **test scores by 25%** and **student satisfaction by 15%**.  
-- Optimized **remote learning content**, increasing efficiency by **40%** through **data-driven lesson structuring**.  
-- Applied **SQL & statistical analysis** to personalize digital education content, improving retention and learning outcomes.  
-
----
-
-## 💼 Work Experience  
-
 ### **Freelance Data Scientist**  
 📍 Remote | *Aug 2024 – Present*  
 
@@ -59,7 +38,7 @@ Let’s connect, collaborate, and create something awesome!
 
 ---
 
-### **Analyst | Indian Political Action Committee (I-PAC)**  
+### **Analyst | I-PAC**  
 📍 India | *Nov 2020 – Feb 2021*  
 
 - Led **data-driven electoral strategy**, analyzing *voter behavior across 50+ constituencies* to influence key campaign decisions.  
@@ -77,32 +56,52 @@ Let’s connect, collaborate, and create something awesome!
 - Optimized **remote learning content**, improving efficiency by *40%* through structured, data-driven lesson planning.  
 - Applied **SQL & statistical analysis** to personalize digital education content, enhancing retention and learning outcomes.  
 
+---
 
 ## 🎓 Internships & Trainings  
 
-### **Data Science Consultant @ Rubixe - AI Solutions Company** (_Aug 2023 - Aug 2024_)  
-- Transformed raw business data into **actionable AI-driven insights**, optimizing decision-making processes.  
-- Built **predictive models** achieving **80%+ accuracy**, enhancing forecasting precision for key clients.  
-- Spearheaded **automated data pipelines**, streamlining workflows and reducing manual effort by **30%**.  
+### **Data Science Consultant | Rubixe - AI Solutions Company**  
+📍 Remote | *Aug 2023 – Aug 2024*  
 
-### **Data Science Trainee @ Datamites Global Training Institute** (_Aug 2023 - Jan 2024_)  
-- Mastered **machine learning, deep learning, and NLP** through hands-on training with industry experts.  
-- Developed and optimized **ML models**, increasing prediction accuracy by **20%**.  
-- Implemented **data preprocessing techniques**, reducing noise and improving model efficiency.  
+- Transformed raw business data into AI-driven insights, optimizing decision-making processes.  
+- Built predictive models with *80%+ accuracy*, enhancing forecasting precision for key clients.  
+- Spearheaded **automated data pipelines**, streamlining workflows and reducing manual effort by *30%*.  
 
-### **Project Intern @ Datamites Global Training Institute** (_Feb 2024 - Jun 2024_)  
-- Led **end-to-end data analysis**, uncovering trends and extracting insights that boosted project success rates by **30%**.  
-- Designed and optimized **supervised & unsupervised ML models**, improving accuracy by **20%** through advanced feature engineering.  
-- Collaborated with cross-functional teams to translate data into business strategies.  
+---
 
-### **Machine Learning Intern @ Bharat Intern** (_Jan 2024 - Feb 2024_)  
-- Engineered a **collaborative filtering system**, increasing movie recommendation accuracy by **15%**.  
-- Built an **ML model for house pricing predictions**, reducing error rates by **25%** and improving accuracy by **18%**.  
+### **Data Science Trainee | Datamites Global Training Institute**  
+📍 Remote | *Aug 2023 – Jan 2024*  
 
-### **Data Science Intern @ Prodigy Infotech** (_Dec 2023 - Jan 2024_)  
-- Automated **data reporting and visualization**, increasing efficiency by **20%**.  
-- Designed **predictive models** that achieved **85% accuracy** in **bank loan risk assessments**, optimizing customer profiling.  
+- Gained hands-on experience in **machine learning, deep learning, and NLP** through industry-led training.  
+- Developed and optimized **ML models**, improving prediction accuracy by *20%*.  
+- Implemented **data preprocessing techniques**, reducing noise and enhancing model efficiency.  
 
+---
+
+### **Project Intern | Datamites Global Training Institute**  
+📍 Remote | *Feb 2024 – Jun 2024*  
+
+- Led **end-to-end data analysis**, uncovering trends and boosting project success rates by *30%*.  
+- Designed and fine-tuned **supervised & unsupervised ML models**, increasing accuracy by *20%*.  
+- Collaborated with cross-functional teams to translate data insights into business strategies.  
+
+---
+
+### **Machine Learning Intern | Bharat Intern**  
+📍 Remote | *Jan 2024 – Feb 2024*  
+
+- Engineered a **collaborative filtering system**, enhancing movie recommendation accuracy by *15%*.  
+- Built an **ML model for house pricing predictions**, reducing error rates by *25%* and improving accuracy by *18%*.  
+
+---
+
+### **Data Science Intern | Prodigy Infotech**  
+📍 Remote | *Dec 2023 – Jan 2024*  
+
+- Automated **data reporting and visualization**, increasing efficiency by *20%*.  
+- Designed **predictive models** that achieved *85% accuracy* in **bank loan risk assessments**, optimizing customer profiling.  
+
+---
 
 ## 💻Projects
 ### Hotel Revenue and Operational Efficiency Analysis
