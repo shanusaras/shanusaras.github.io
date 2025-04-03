@@ -120,7 +120,7 @@ Let’s connect, collaborate, and create something awesome!
 
 ### Hotel Revenue and Operational Efficiency Analysis  
 **Domain:** Hospitality & Travel | **Tech Stack:** Power BI, Excel, DAX  
-[🔗 **Project link**](https://github.com/shanusaras/Hotel-Revenue-and-Operational-Efficiency-Dashboard.git)  
+[🔗 Project link](https://github.com/shanusaras/Hotel-Revenue-and-Operational-Efficiency-Dashboard.git)  
 
 **Problem**  
 Atliq Grands, a luxury hotel chain, faced declining revenue due to rising competition and poor management decisions.  
@@ -129,7 +129,7 @@ Atliq Grands, a luxury hotel chain, faced declining revenue due to rising compet
 Developed an **interactive Power BI dashboard** to analyze 12 months of booking data, uncovering revenue drivers & inefficiencies.  
 
 **Impact**  
-- Identified that **Elite customers & RT2 room type** were major revenue contributors.  
+- Identified **Elite customers & RT2 room type** as major revenue contributors.  
 - Found **high cancellation rates** reducing occupancy rates.  
 - Proposed **pricing & marketing strategies**, boosting revenue potential by **15%**.  
 
@@ -140,53 +140,61 @@ Developed an **interactive Power BI dashboard** to analyze 12 months of booking 
 ---
 
 ### Loan Risk Analytics and Performance Insights  
-**Domain:** Finance & Banking | **Tech Stack:** MySQL, Excel, Power BI, Tableau  
-[Project link](https://github.com/shanusaras/Loan-Risk-Analytics-and-Performance-Insights.git)  
+**Domain:** Finance | **Tech Stack:** MySQL, Power BI, Tableau, Excel  
+[🔗 Project link](https://github.com/shanusaras/Loan-Risk-Analytics-and-Performance-Insights.git)  
 
-**Problem:** Financial institutions faced challenges in assessing loan risk, leading to increased defaults.  
-**Solution:** Conducted **loan risk analysis on 10,000+ records** using SQL & Excel, identifying high-risk loans and risk factors.  
-**Impact:**  
-- Discovered that **13.8% of loans** were high-risk due to **DTI ratio & loan terms**.  
-- Built **interactive Power BI & Tableau dashboards** to visualize borrower behavior & regional trends.  
-- Provided **risk mitigation strategies**, improving loan approval accuracy & reducing default rates.  
+**Problem**  
+Financial institutions faced **rising loan defaults** but lacked data-driven insights into key risk factors.  
+
+**Solution**  
+Analyzed **10,000+ loan records** using MySQL & Excel, identifying risk patterns. Built **interactive Power BI & Tableau dashboards** to visualize loan performance trends.  
+
+**Impact**  
+- Discovered **13.8% of loans were high-risk** due to DTI ratio & loan terms.  
+- Provided **insights on borrower behavior**, improving risk assessment.  
+- Suggested **data-driven loan approval strategies** to reduce default rates.  
 
 <p align="center">
-  <img src="https://shanusaras.github.io/saraswathi.github.io/assets/images/bank_loan_risk_analysis.png" alt="Loan Risk Analysis" width="300">
+  <img src="https://shanusaras.github.io/saraswathi.github.io/assets/images/bank_loan_risk_analysis.png" alt="Loan Risk Analysis" width="350">
 </p>  
 
 ---
 
-### Mobile Price Range Prediction and Competitive Business Insights  
-**Domain:** E-commerce & Retail | **Tech Stack:** Python, Scikit-learn, ML  
-[Project link](https://github.com/shanusaras/Mobile-Price-Range-Prediction.git)  
+### Mobile Price Range Prediction & Business Insights  
+**Domain:** E-commerce | **Tech Stack:** Python, Scikit-Learn, XGBoost  
+[🔗 Project link](https://github.com/shanusaras/Mobile-Price-Range-Prediction.git)  
 
-**Problem:** A budding smartphone company needed **data-driven pricing strategies** to compete with market leaders like Apple & Samsung.  
-**Solution:** Developed an **ML model** to classify mobile phones into price ranges based on specifications like RAM, battery power & storage.  
-**Impact:**  
-- Achieved **95% accuracy** using a fine-tuned **Support Vector Machine (SVM)** model.  
-- Identified **key pricing factors & consumer preferences**, guiding competitive pricing strategies.  
-- Provided **actionable business insights** to maximize market penetration & profitability.  
+**Problem**  
+A mobile company lacked a **data-driven pricing strategy** to compete with market leaders like Apple & Samsung.  
+
+**Solution**  
+Developed an ML model to classify mobile prices based on **RAM, battery power, & internal memory**. Fine-tuned **SVM model** achieved **95% accuracy**.  
+
+**Impact**  
+- Identified key pricing factors & consumer preferences.  
+- Recommended **data-driven pricing strategies** to maximize sales.  
+- Helped improve **market penetration & profitability**.  
 
 <p align="center">
-  <img src="https://shanusaras.github.io/saraswathi.github.io/assets/images/mobile_price_range_prediction.jpg" alt="Mobile Price Range Prediction" width="300">
+  <img src="https://shanusaras.github.io/saraswathi.github.io/assets/images/mobile_price_range_prediction.jpg" alt="Mobile Price Prediction" width="350">
 </p>  
 
 ---
 
-### Employee Performance Analysis and Predictive Modeling for Workforce Optimization  
-**Domain:** HR & Workforce Analytics | **Tech Stack:** Python, Scikit-learn, ML 
-[Project link](https://github.com/shanusaras/Employees_performance_analysis.git)  
+### Employee Performance Analysis & Predictive Modeling  
+**Domain:** HR & Workforce Analytics | **Tech Stack:** Python, SQL, Power BI, XGBoost  
+[🔗 Project link](https://github.com/shanusaras/Employees_performance_analysis.git)  
 
-**Problem:** A company struggled with inefficient hiring, employee performance forecasting & workforce retention.  
-**Solution:** Conducted **EDA & feature engineering** to build ML models that predict employee performance with high accuracy.  
-**Impact:**  
-- Achieved **93% accuracy** using **Random Forest, XGBoost & SVM models**.  
-- Improved **hiring efficiency by 26%**, reducing poor hires & turnover rates.  
-- Proposed **data-driven workforce retention & incentive strategies**, increasing employee satisfaction.  
+**Problem**  
+A leading company struggled with **low employee productivity & inefficient hiring** decisions.  
 
-<p align="center">
-  <img src="https://shanusaras.github.io/saraswathi.github.io/assets/images/employee_performance_analysis.jpg" alt="Employee Performance Analysis" width="300">
-</p>  
+**Solution**  
+Used **EDA & feature engineering** to identify performance drivers. Built **predictive models (Random Forest, XGBoost, SVM)** achieving **93% accuracy** in forecasting employee performance.  
+
+**Impact**  
+- Helped improve **hiring efficiency by 26%**.  
+- Suggested **incentive programs & skill development** for retention.  
+- Enhanced **client satisfaction** by reducing performance-related escalations.  
 
 ---
 
