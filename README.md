@@ -17,14 +17,43 @@ Let’s connect, collaborate, and create something awesome!
 ## Technical Skills
 
 - **Programming & Querying:** Python, SQL  
-- **Machine Learning & AI:** Predictive Modeling, Feature Engineering, NLP, Computer Vision, Generative AI  
-- **Data Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
-- **Big Data & Cloud:** Databricks, Google BigQuery, AWS (S3, Lambda, EC2)  
+- **Machine Learning & AI:** Predictive Modeling, Feature Engineering, NLP, Computer Vision, Generative AI (LLMs, Text-to-Image Models, Chatbots)
+- **Data Visualization:** Power BI, Tableau, Matplotlib, Seaborn, Excel (Advanced) 
+- **Big Data & Cloud:** Databricks, Google BigQuery, AWS (S3, Lambda, EC2, SageMaker)  
 - **MLOps & Deployment:** Flask, FastAPI, Streamlit, Docker, Git  
 - **AI/ML Frameworks:** TensorFlow, PyTorch, Scikit-learn, Hugging Face Transformers  
 - **Actively Learning:** LangChain, OpenAI API, MLflow, GCP AI services  
 
 ---
+
+## Technical Skills  
+
+### Programming & Querying  
+Python, SQL (PostgreSQL, MySQL, BigQuery), Bash  
+
+### Machine Learning & AI  
+- Predictive Modeling, Feature Engineering, Statistical Analysis  
+- Natural Language Processing (NLP), Computer Vision (CV)  
+- Generative AI (LLMs, Text-to-Image Models, Chatbots)  
+
+### Data Analytics & Visualization  
+Power BI, Tableau, Matplotlib, Seaborn, Plotly, Excel (Advanced)  
+
+### Big Data & Cloud Technologies  
+Databricks, Google BigQuery, Snowflake, AWS (S3, Lambda, EC2, SageMaker)  
+
+### MLOps & Model Deployment  
+- End-to-End ML Pipeline Automation  
+- FastAPI, Flask, Streamlit (Interactive AI Apps)  
+- Docker, Git, MLflow (Model Tracking & Deployment)  
+
+### AI/ML Frameworks & Libraries  
+TensorFlow, PyTorch, Scikit-learn, XGBoost, Hugging Face Transformers  
+
+### Actively Exploring & Mastering  
+LangChain (LLM Applications), OpenAI API, AutoML, Edge AI, GCP AI Services  
+
+----
 
 ## 💼 Work Experience  
 
