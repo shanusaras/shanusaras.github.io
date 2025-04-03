@@ -118,19 +118,25 @@ Let’s connect, collaborate, and create something awesome!
 
 ## 💻 Projects  
 
+## 💻 Projects  
+
 ### Hotel Revenue and Operational Efficiency Analysis  
 **Domain:** Hospitality & Travel | **Tech Stack:** Power BI, Excel, DAX  
-[Project link](https://github.com/shanusaras/Hotel-Revenue-and-Operational-Efficiency-Dashboard.git)  
+[🔗 Project link](https://github.com/shanusaras/Hotel-Revenue-and-Operational-Efficiency-Dashboard.git)  
 
-**Problem:** Atliq Grands, a luxury hotel chain, faced declining revenue due to rising competition and poor management decisions.  
-**Solution:** Built an **interactive Power BI dashboard** analyzing 12 months of booking data to uncover revenue drivers & inefficiencies.  
-**Impact:**  
+**Problem**  
+Atliq Grands, a luxury hotel chain, faced declining revenue due to rising competition and poor management decisions.  
+
+**Solution**  
+Developed an **interactive Power BI dashboard** to analyze 12 months of booking data, uncovering revenue drivers & inefficiencies.  
+
+**Impact**  
 - Identified that **Elite customers & RT2 room type** were major revenue contributors.  
-- Discovered **high cancellation rates** reducing occupancy rates.  
-- Provided **data-driven pricing & marketing strategies**, boosting revenue potential by **15%**.  
+- Found **high cancellation rates** reducing occupancy rates.  
+- Proposed **pricing & marketing strategies**, boosting revenue potential by **15%**.  
 
 <p align="center">
-  <img src="https://shanusaras.github.io/saraswathi.github.io/assets/images/hotel_revenue_analysis.png" alt="Hotel Revenue Analysis" width="300">
+  <img src="https://shanusaras.github.io/saraswathi.github.io/assets/images/hotel_revenue_analysis.png" alt="Hotel Revenue Analysis" width="350">
 </p>  
 
 ---
