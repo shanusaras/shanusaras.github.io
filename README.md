@@ -15,22 +15,28 @@ Let’s connect, collaborate, and create something awesome!
 
 ---
 
-## Technical Skills
+## Technical Skills  
 
 - **Programming & Querying:**  
-Python, SQL  
-- **Machine Learning & AI:**
-Predictive Modeling, Feature Engineering, NLP, Computer Vision, Generative AI (LLMs, Text-to-Image Models, Chatbots)
-- **Data Visualization:**
-Power BI, Tableau, Matplotlib, Seaborn, Excel (Advanced) 
-- **Big Data & Cloud:**
-Databricks, Google BigQuery, AWS (S3, Lambda, EC2, SageMaker)  
-- **MLOps & Deployment:**
-Flask, FastAPI, Streamlit, Docker, Git  
-- **AI/ML Frameworks:**
-TensorFlow, PyTorch, Scikit-learn, Hugging Face Transformers  
-- **Actively Learning:**
-LangChain, OpenAI API, MLflow, GCP AI services  
+  Python, SQL  
+
+- **Machine Learning & AI:**  
+  Predictive Modeling, Feature Engineering, NLP, Computer Vision, Generative AI (LLMs, Text-to-Image Models, Chatbots)  
+
+- **Data Visualization:**  
+  Power BI, Tableau, Matplotlib, Seaborn, Excel (Advanced)  
+
+- **Big Data & Cloud:**  
+  Databricks, Google BigQuery, AWS (S3, Lambda, EC2, SageMaker)  
+
+- **MLOps & Deployment:**  
+  Flask, FastAPI, Streamlit, Docker, Git  
+
+- **AI/ML Frameworks:**  
+  TensorFlow, PyTorch, Scikit-learn, Hugging Face Transformers  
+
+- **Actively Learning:**  
+  LangChain, OpenAI API, MLflow, GCP AI Services  
 
 ---
 
@@ -185,7 +191,7 @@ I don’t just analyze data—I overanalyze **movie plots, podcast theories, and
 ## 🎓 Education  
 
 - **Master of Arts (M.A.) in Political Science**
-  📍 University of Madras, Chennai, India _(2022 – 2024)_  
+📍 University of Madras, Chennai, India _(2022 – 2024)_  
 
 ---
 
