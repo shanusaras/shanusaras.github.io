@@ -17,13 +17,20 @@ Let’s connect, collaborate, and create something awesome!
 
 ## Technical Skills
 
-- **Programming & Querying:** Python, SQL  
-- **Machine Learning & AI:** Predictive Modeling, Feature Engineering, NLP, Computer Vision, Generative AI (LLMs, Text-to-Image Models, Chatbots)
-- **Data Visualization:** Power BI, Tableau, Matplotlib, Seaborn, Excel (Advanced) 
-- **Big Data & Cloud:** Databricks, Google BigQuery, AWS (S3, Lambda, EC2, SageMaker)  
-- **MLOps & Deployment:** Flask, FastAPI, Streamlit, Docker, Git  
-- **AI/ML Frameworks:** TensorFlow, PyTorch, Scikit-learn, Hugging Face Transformers  
-- **Actively Learning:** LangChain, OpenAI API, MLflow, GCP AI services  
+- **Programming & Querying:**  
+Python, SQL  
+- **Machine Learning & AI:**
+Predictive Modeling, Feature Engineering, NLP, Computer Vision, Generative AI (LLMs, Text-to-Image Models, Chatbots)
+- **Data Visualization:**
+Power BI, Tableau, Matplotlib, Seaborn, Excel (Advanced) 
+- **Big Data & Cloud:**
+Databricks, Google BigQuery, AWS (S3, Lambda, EC2, SageMaker)  
+- **MLOps & Deployment:**
+Flask, FastAPI, Streamlit, Docker, Git  
+- **AI/ML Frameworks:**
+TensorFlow, PyTorch, Scikit-learn, Hugging Face Transformers  
+- **Actively Learning:**
+LangChain, OpenAI API, MLflow, GCP AI services  
 
 ---
 
@@ -32,29 +39,29 @@ Let’s connect, collaborate, and create something awesome!
 ### **Freelance Data Scientist**  
 📍 Remote | *Aug 2024 – Present*  
 
-- Designed **end-to-end ML pipelines**, boosting predictive accuracy by *30%* for better business forecasting.  
-- Conducted *hands-on training for 100+ learners*, simplifying **SQL, Power BI, and Deep Learning** for real-world applications.  
-- Built **NLP-driven text analytics** and **AI-powered recommendation systems**, enabling businesses to automate insights and personalize customer experiences.  
+- Designed end-to-end ML pipelines, boosting predictive accuracy by 30% for better business forecasting.  
+- Conducted hands-on training for 100+ learners, simplifying SQL, Power BI, and Deep Learning for real-world applications.  
+- Built NLP-driven text analytics and AI-powered recommendation systems, enabling businesses to automate insights and personalize customer experiences.  
 
 ---
 
 ### **Analyst | I-PAC**  
 📍 India | *Nov 2020 – Feb 2021*  
 
-- Led **data-driven electoral strategy**, analyzing *voter behavior across 50+ constituencies* to influence key campaign decisions.  
-- Conducted **sentiment analysis on public opinion data**, driving targeted outreach and increasing *voter engagement by 20%*.  
-- Developed **data-backed reports**, optimizing decision-making and driving a *25% increase in public participation*.  
-- Collaborated with cross-functional teams to translate **complex data insights into actionable strategies**, improving overall campaign effectiveness.  
+- Led data-driven electoral strategy, analyzing voter behavior across 50+ constituencies to influence key campaign decisions.  
+- Conducted sentiment analysis on public opinion data, driving targeted outreach and increasing voter engagement by 20%.  
+- Developed data-backed reports, optimizing decision-making and driving a 25% increase in public participation.  
+- Collaborated with cross-functional teams to translate complex data insights into actionable strategies, improving overall campaign effectiveness.  
 
 ---
 
 ### **Learning Analytics Consultant | YaClass (EdTech)**  
 📍 Remote | *Jun 2019 – Oct 2019*  
 
-- Analyzed **large-scale student performance datasets**, identifying key learning gaps and improving *engagement by 30%*.  
-- Designed **adaptive assessment models**, leading to a *25% improvement in test scores* and a *15% increase in student satisfaction*.  
-- Optimized **remote learning content**, improving efficiency by *40%* through structured, data-driven lesson planning.  
-- Applied **SQL & statistical analysis** to personalize digital education content, enhancing retention and learning outcomes.  
+- Analyzed large-scale student performance datasets, identifying key learning gaps and improving engagement by 30%.  
+- Designed adaptive assessment models, leading to a 25% improvement in test scores and a 15% increase in student satisfaction.  
+- Optimized remote learning content, improving efficiency by 40% through structured, data-driven lesson planning.  
+- Applied SQL & statistical analysis to personalize digital education content, enhancing retention and learning outcomes.  
 
 ---
 
@@ -64,25 +71,25 @@ Let’s connect, collaborate, and create something awesome!
 📍 Remote | *Aug 2023 – Aug 2024*  
 
 - Transformed raw business data into AI-driven insights, optimizing decision-making processes.  
-- Built predictive models with *80%+ accuracy*, enhancing forecasting precision for key clients.  
-- Spearheaded **automated data pipelines**, streamlining workflows and reducing manual effort by *30%*.  
+- Built predictive models with 80%+ accuracy, enhancing forecasting precision for key clients.  
+- Spearheaded automated data pipelines, streamlining workflows and reducing manual effort by 30%.  
 
 ---
 
 ### **Data Science Trainee | Datamites Global Training Institute**  
 📍 Remote | *Aug 2023 – Jan 2024*  
 
-- Gained hands-on experience in **machine learning, deep learning, and NLP** through industry-led training.  
-- Developed and optimized **ML models**, improving prediction accuracy by *20%*.  
-- Implemented **data preprocessing techniques**, reducing noise and enhancing model efficiency.  
+- Gained hands-on experience in machine learning, deep learning, and NLP through industry-led training.  
+- Developed and optimized ML models, improving prediction accuracy by 20%.  
+- Implemented data preprocessing techniques, reducing noise and enhancing model efficiency.  
 
 ---
 
 ### **Project Intern | Datamites Global Training Institute**  
 📍 Remote | *Feb 2024 – Jun 2024*  
 
-- Led **end-to-end data analysis**, uncovering trends and boosting project success rates by *30%*.  
-- Designed and fine-tuned **supervised & unsupervised ML models**, increasing accuracy by *20%*.  
+- Led end-to-end data analysis, uncovering trends and boosting project success rates by 30%.  
+- Designed and fine-tuned supervised & unsupervised ML models, increasing accuracy by 20%.  
 - Collaborated with cross-functional teams to translate data insights into business strategies.  
 
 ---
@@ -90,16 +97,16 @@ Let’s connect, collaborate, and create something awesome!
 ### **Machine Learning Intern | Bharat Intern**  
 📍 Remote | *Jan 2024 – Feb 2024*  
 
-- Engineered a **collaborative filtering system**, enhancing movie recommendation accuracy by *15%*.  
-- Built an **ML model for house pricing predictions**, reducing error rates by *25%* and improving accuracy by *18%*.  
+- Engineered a collaborative filtering system, enhancing movie recommendation accuracy by 15%.  
+- Built an ML model for house pricing predictions, reducing error rates by *25%* and improving accuracy by 18%.  
 
 ---
 
 ### **Data Science Intern | Prodigy Infotech**  
 📍 Remote | *Dec 2023 – Jan 2024*  
 
-- Automated **data reporting and visualization**, increasing efficiency by *20%*.  
-- Designed **predictive models** that achieved *85% accuracy* in **bank loan risk assessments**, optimizing customer profiling.  
+- Automated data reporting and visualization, increasing efficiency by 20%.  
+- Designed predictive models that achieved *85% accuracy* in bank loan risk assessments, optimizing customer profiling.  
 
 ---
 
@@ -177,12 +184,12 @@ I don’t just analyze data—I overanalyze **movie plots, podcast theories, and
 
 ## 🎓 Education  
 
-**🟢 Master of Arts (M.A.) in Political Science**  
-📍 University of Madras, Chennai, India _(2022 – 2024)_  
+- **Master of Arts (M.A.) in Political Science**
+  📍 University of Madras, Chennai, India _(2022 – 2024)_  
 
 ---
 
-**🔵 Bachelor of Engineering (B.E.) in Civil Engineering** 
+- **Bachelor of Engineering (B.E.) in Civil Engineering**  
 📍 Sri Sairam Institute of Technology (Affiliated to Anna University), Chennai, India _(2014 – 2018)_ 
 
 ---
@@ -190,7 +197,7 @@ I don’t just analyze data—I overanalyze **movie plots, podcast theories, and
 ## 📞 Get in Touch
 
 📧 **Email:** [shanusaras123@gmail.com](mailto:shanusaras123@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/saraswathi-rajendran](https://www.linkedin.com/in/saraswathi-rajendran-29b962205/) 
+🔗 **LinkedIn:** [linkedin.com/in/saraswathi-rajendran](https://www.linkedin.com/in/saraswathi-rajendran-29b962205/)  
 🐙 **GitHub:** [github.com/shanusaras](https://github.com/shanusaras)  
 
 
