@@ -1,7 +1,7 @@
 # Data Scientist
 
 
-## 👋 About Me  
+## 👋 ABOUT ME  
 **Data science + storytelling + problem-solving.** That’s my formula.  
 
 I turn raw data into gold, uncovering insights that drive real impact.  
@@ -15,7 +15,7 @@ Let’s connect, collaborate, and create something awesome!
 
 ---
 
-## Technical Skills  
+## TECHNICAL SKILLS
 
 - **Programming & Querying:**  
   Python, SQL  
@@ -40,7 +40,7 @@ Let’s connect, collaborate, and create something awesome!
 
 ---
 
-## 💼 Work Experience  
+## 💼 WORK EXPERIENCE  
 
 ### **Freelance Data Scientist**  
 📍 Remote | *Aug 2024 – Present*  
@@ -71,7 +71,7 @@ Let’s connect, collaborate, and create something awesome!
 
 ---
 
-## 🎓 Internships & Trainings  
+## 🎓 INTERNSHIPS & TRAININGS 
 
 ### **Data Science Consultant | Rubixe - AI Solutions Company**  
 📍 Remote | *Aug 2023 – Aug 2024*  
@@ -116,7 +116,7 @@ Let’s connect, collaborate, and create something awesome!
 
 ---
 
-## 💻 Projects  
+## 💻 PROJECTS
 
 ### Hotel Revenue and Operational Efficiency Analysis  
 **Domain:** Hospitality & Travel | **Tech Stack:** Power BI, Excel, DAX  
@@ -198,7 +198,7 @@ Used **EDA & feature engineering** to identify performance drivers. Built **pred
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🏆 CERTIFICATIONS & ACHIEVEMENTS
 ✅ **[Certified Data Scientist](https://drive.google.com/file/d/1OztLucVaX6kHZFq8pR4klXwsSlwVIgVc/view?usp=sharing)** – _Issued by IABAC, 2024_  
 ✅ **[Data Science Foundation](https://drive.google.com/file/d/17hVc6UuejafxH1EGn1nj095sqmG2OaqR/view?usp=sharing)** – _Issued by IABAC, 2024_  
 ✅ **[Certified Data Scientist](https://drive.google.com/file/d/1FHOk58nOBySC8OA1g4SrRDQkMbkddOXW/view?usp=sharing)** – _Issued by NASSCOM, 2024_  
@@ -206,7 +206,7 @@ Used **EDA & feature engineering** to identify performance drivers. Built **pred
 
 ---
 
-## 🎭 Beyond the Data: Hobbies & Interests  
+## 🎭 BEYOND THE DATA: HOBBIES & INTERESTS  
 
 I don’t just analyze data—I overanalyze **movie plots, podcast theories, and the mysteries of the universe** too.  
 
@@ -220,7 +220,7 @@ I don’t just analyze data—I overanalyze **movie plots, podcast theories, and
 
 ---
 
-## 🎓 Education  
+## 🎓 EDUCATION
 
 - **Master of Arts (M.A.) in Political Science**
 📍 University of Madras, Chennai, India _(2022 – 2024)_  
@@ -232,7 +232,7 @@ I don’t just analyze data—I overanalyze **movie plots, podcast theories, and
 
 ---
 
-## 📞 Get in Touch
+## 📞 GET IN TOUCH
 
 📧 **Email:** [shanusaras123@gmail.com](mailto:shanusaras123@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/saraswathi-rajendran](https://www.linkedin.com/in/saraswathi-rajendran-29b962205/)  
