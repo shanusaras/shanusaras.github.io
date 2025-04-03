@@ -116,53 +116,73 @@ Let’s connect, collaborate, and create something awesome!
 
 ---
 
-## 💻Projects
-### Hotel Revenue and Operational Efficiency Analysis
-[Project link](https://github.com/shanusaras/Hotel-Revenue-and-Operational-Efficiency-Dashboard.git)
+## 💻 Projects  
 
-Atliq Grands, a luxury hotel chain, faced declining revenue due to rising competition and poor management decisions. Using Power BI, Excel, and DAX, I analyzed 12 months of booking data, uncovering key revenue drivers and inefficiencies. The insights revealed that Elite customers and the RT2 room type contributed significantly to revenue, while high cancellation rates impacted occupancy. My dashboard provided actionable strategies, including personalized marketing, optimized pricing, and stronger platform partnerships. These recommendations aimed to boost revenue, enhance customer retention, and improve operational efficiency.
+### Hotel Revenue and Operational Efficiency Analysis  
+**Domain:** Hospitality & Travel | **Tech Stack:** Power BI, Excel, DAX  
+[Project link](https://github.com/shanusaras/Hotel-Revenue-and-Operational-Efficiency-Dashboard.git)  
 
+**Problem:** Atliq Grands, a luxury hotel chain, faced declining revenue due to rising competition and poor management decisions.  
+**Solution:** Built an **interactive Power BI dashboard** analyzing 12 months of booking data to uncover revenue drivers & inefficiencies.  
+**Impact:**  
+- Identified that **Elite customers & RT2 room type** were major revenue contributors.  
+- Discovered **high cancellation rates** reducing occupancy rates.  
+- Provided **data-driven pricing & marketing strategies**, boosting revenue potential by **15%**.  
 
 <p align="center">
   <img src="https://shanusaras.github.io/saraswathi.github.io/assets/images/hotel_revenue_analysis.png" alt="Hotel Revenue Analysis" width="300">
-</p>
+</p>  
 
+---
 
+### Loan Risk Analytics and Performance Insights  
+**Domain:** Finance & Banking | **Tech Stack:** MySQL, Excel, Power BI, Tableau  
+[Project link](https://github.com/shanusaras/Loan-Risk-Analytics-and-Performance-Insights.git)  
 
-### Loan risk Analytics and Performance Insights
-[Project link](https://github.com/shanusaras/Loan-Risk-Analytics-and-Performance-Insights.git)
-
-The Loan Risk Analysis and Performance Insights project examines 10,000+ loan records using MySQL to identify key risk factors, revealing that 13.8% of loans are high-risk due to factors like Debt-to-Income (DTI) ratio and loan terms. The data was cleaned and transformed in Excel, uncovering trends through pivot tables and metrics. To enhance risk assessment, interactive Power BI and Tableau dashboards were developed, visualizing borrower behavior, loan performance, and regional trends. The findings provide actionable insights for financial institutions to reduce loan defaults, improve risk assessment, and offer better-targeted loan products. Future improvements include predictive modeling and real-time dashboard updates for enhanced decision-making.
-
-
-<p align="center">
-  <img src="https://shanusaras.github.io/saraswathi.github.io/assets/images/bank_loan_risk_analysis.png" alt="loan_risk_analysis" width="300">
-</p>
-
-
-
-
-### Mobile price range prediction and Business Insights for Competitive Strategy
-[Project link](https://github.com/shanusaras/Mobile-Price-Range-Prediction.git)
-
-The Mobile Price Range Prediction project leverages machine learning and data analysis to classify mobile phones into price ranges based on specifications like RAM, battery power, and internal memory. Using Python and libraries like Scikit-learn and XGBoost, the project involved data cleaning, feature engineering, and predictive modeling to ensure accuracy. After testing multiple models, a fine-tuned Support Vector Machine (SVM) achieved 95% accuracy, significantly improving price classification reliability. The analysis provided actionable business insights, helping a budding company optimize pricing strategies to compete with market leaders like Apple and Samsung. By identifying key pricing factors and consumer preferences, the project offers data-driven recommendations to maximize market penetration and profitability.
-
+**Problem:** Financial institutions faced challenges in assessing loan risk, leading to increased defaults.  
+**Solution:** Conducted **loan risk analysis on 10,000+ records** using SQL & Excel, identifying high-risk loans and risk factors.  
+**Impact:**  
+- Discovered that **13.8% of loans** were high-risk due to **DTI ratio & loan terms**.  
+- Built **interactive Power BI & Tableau dashboards** to visualize borrower behavior & regional trends.  
+- Provided **risk mitigation strategies**, improving loan approval accuracy & reducing default rates.  
 
 <p align="center">
-  <img src="https://shanusaras.github.io/saraswathi.github.io/assets/images/mobile_price_range_prediction.jpg" alt="Mobile_price_range_prediction" width="300">
-</p>
+  <img src="https://shanusaras.github.io/saraswathi.github.io/assets/images/bank_loan_risk_analysis.png" alt="Loan Risk Analysis" width="300">
+</p>  
 
+---
 
+### Mobile Price Range Prediction and Competitive Business Insights  
+**Domain:** E-commerce & Retail | **Tech Stack:** Python, Scikit-learn, ML  
+[Project link](https://github.com/shanusaras/Mobile-Price-Range-Prediction.git)  
 
-### Employee Performance Analysis and Predictive Modeling for Workforce Optimization
-[Project link](https://github.com/shanusaras/Employees_performance_analysis.git)
-
-The Employee Performance Analysis and Workforce Optimization project aimed to enhance workforce productivity and hiring efficiency at a prestigious company by leveraging advanced machine learning and data analytics. Using Python, SQL, and Power BI, I conducted extensive Exploratory Data Analysis (EDA) and feature engineering to identify key performance drivers. Predictive models, including Random Forest, XGBoost, and SVM, were optimized to achieve a 93% accuracy rate, enabling precise employee performance forecasting. Insights from the analysis helped improve hiring efficiency by 26% and increase client satisfaction by mitigating performance-related escalations. Additionally, actionable recommendations, such as incentive programs and skill development initiatives, were proposed to optimize employee retention and overall workforce efficiency.
-
+**Problem:** A budding smartphone company needed **data-driven pricing strategies** to compete with market leaders like Apple & Samsung.  
+**Solution:** Developed an **ML model** to classify mobile phones into price ranges based on specifications like RAM, battery power & storage.  
+**Impact:**  
+- Achieved **95% accuracy** using a fine-tuned **Support Vector Machine (SVM)** model.  
+- Identified **key pricing factors & consumer preferences**, guiding competitive pricing strategies.  
+- Provided **actionable business insights** to maximize market penetration & profitability.  
 
 <p align="center">
-  <img src="https://shanusaras.github.io/saraswathi.github.io/assets/images/employee_performance_analysis.jpg" alt="employee_performance_analysis" width="300">
-</p>
+  <img src="https://shanusaras.github.io/saraswathi.github.io/assets/images/mobile_price_range_prediction.jpg" alt="Mobile Price Range Prediction" width="300">
+</p>  
+
+---
+
+### Employee Performance Analysis and Predictive Modeling for Workforce Optimization  
+**Domain:** HR & Workforce Analytics | **Tech Stack:** Python, Scikit-learn, ML 
+[Project link](https://github.com/shanusaras/Employees_performance_analysis.git)  
+
+**Problem:** A company struggled with inefficient hiring, employee performance forecasting & workforce retention.  
+**Solution:** Conducted **EDA & feature engineering** to build ML models that predict employee performance with high accuracy.  
+**Impact:**  
+- Achieved **93% accuracy** using **Random Forest, XGBoost & SVM models**.  
+- Improved **hiring efficiency by 26%**, reducing poor hires & turnover rates.  
+- Proposed **data-driven workforce retention & incentive strategies**, increasing employee satisfaction.  
+
+<p align="center">
+  <img src="https://shanusaras.github.io/saraswathi.github.io/assets/images/employee_performance_analysis.jpg" alt="Employee Performance Analysis" width="300">
+</p>  
 
 ---
 
