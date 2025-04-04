@@ -8,7 +8,7 @@ I turn raw data into gold, uncovering insights that drive real impact.
 
 ### What I bring to the table:  
 - Sharp analytical skills backed by Python, SQL, and all things machine learning.  
-- A knack for storytelling through data—because 👉 numbers mean nothing if they don’t drive action.  
+- A knack for storytelling through data because 👉 numbers mean nothing if they don’t drive action.  
 - A mix of curiosity and creativity that helps me spot insights others might miss. 
 
 Let’s connect, collaborate, and create something awesome!  
