@@ -1,5 +1,8 @@
-title: Saraswathi Rajendran
+title: Saraswathi R
 logo: /assets/images/headshot_img.png
-#description: text below image
+description: >  
+  Data scientist who turns raw data into smart decisions. Passionate about AI, automation, and solving real-world problems with data.  
+  Always up for a challenge, a good laugh, and an opportunity to build something impactful.  
 #show_downloads: true
 theme: jekyll-theme-minimal
+include: ["assets/css/style.css"]
