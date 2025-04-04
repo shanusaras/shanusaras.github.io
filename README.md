@@ -134,7 +134,7 @@ Developed an **interactive Power BI dashboard** to analyze 12 months of booking 
 - Proposed **pricing & marketing strategies**, boosting revenue potential by **15%**.  
 
 <p align="center">
-  <img src="https://shanusaras.github.io/saraswathi.github.io/assets/images/hotel_revenue_analysis.png" alt="Hotel Revenue Analysis" width="350">
+  <img src="https://shanusaras.github.io/assets/images/hotel_revenue_analysis.png" alt="Hotel Revenue Analysis" width="350">
 </p>  
 
 ---
@@ -155,7 +155,7 @@ Analyzed **10,000+ loan records** using MySQL & Excel, identifying risk patterns
 - Suggested **data-driven loan approval strategies** to reduce default rates.  
 
 <p align="center">
-  <img src="https://shanusaras.github.io/saraswathi.github.io/assets/images/bank_loan_risk_analysis.png" alt="Loan Risk Analysis" width="350">
+  <img src="https://shanusaras.github.io/assets/images/bank_loan_risk_analysis.png" alt="Loan Risk Analysis" width="350">
 </p>  
 
 ---
@@ -176,7 +176,7 @@ Developed an ML model to classify mobile prices based on **RAM, battery power, &
 - Helped improve **market penetration & profitability**.  
 
 <p align="center">
-  <img src="https://shanusaras.github.io/saraswathi.github.io/assets/images/mobile_price_range_prediction.jpg" alt="Mobile Price Prediction" width="350">
+  <img src="https://shanusaras.github.io/assets/images/mobile_price_range_prediction.jpg" alt="Mobile Price Prediction" width="350">
 </p>  
 
 ---
