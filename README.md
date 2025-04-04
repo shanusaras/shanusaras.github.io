@@ -194,7 +194,11 @@ Used **EDA & feature engineering** to identify performance drivers. Built **pred
 **Impact**  
 - Helped improve **hiring efficiency by 26%**.  
 - Suggested **incentive programs & skill development** for retention.  
-- Enhanced **client satisfaction** by reducing performance-related escalations.  
+- Enhanced **client satisfaction** by reducing performance-related escalations.
+
+<p align="center">
+  <img src="https://shanusaras.github.io/assets/images/employee_performance_analysis.jpg" alt="Mobile Price Prediction" width="350">
+</p>
 
 ---
 
