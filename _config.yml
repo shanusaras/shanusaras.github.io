@@ -1,12 +1,12 @@
 title: Saraswathi R
 logo: /assets/images/headshot_img.png
 logo_width: 120 px
-description: |
+description: >
   Data scientist who turns raw data into smart decisions.  
-
+  <br><br>
   Passionate about AI and automation.  
-
-  ***Always up for a challenge, a good laugh, and an opportunity to build something impactful.***  
+  <br><br>
+  <b><i>Always up for a challenge, a good laugh, and an opportunity to build something impactful.</i></b>   
 show_downloads: false
 theme: jekyll-theme-minimal
 github:
