@@ -4,7 +4,7 @@
 ## 👋 ABOUT ME  
 **Data science + storytelling + problem-solving.** That’s my formula.  
 
-I turn raw data into gold, uncovering insights that drive real impact.  
+Dashboards. Deep Learning. Decisions. I build data solutions that make noise in the boardroom.  
 
 ### What I bring to the table:  
 - Sharp analytical skills backed by Python, SQL, and all things machine learning.  
